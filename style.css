@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fefefe;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+#search-input {
+  padding: 10px;
+  width: 60%;
+  font-size: 16px;
+}
+
+#search-button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.recipe {
+  border: 1px solid #ddd;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.recipe img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+}
